@@ -1,0 +1,82 @@
+[
+    {
+        "id": "squareboat",
+        "title": "Squareboat Solutions",
+        "details": {
+            "description": "Deployed full-stack Node.js app on AWS EC2, configured Nginx reverse proxy & PM2. Implemented in-browser AI processing using Puter.js for ATS, reducing manual HR screening time by 40%. Migrated legacy codebase to Next.js, boosting Lighthouse score from 78 → 93.",
+            "summary": "Software Developer Engineer Intern"
+        },
+        "roles": [
+            "Full-Stack Development",
+            "Cloud Architecture",
+            "AI Integration"
+        ],
+        "links": []
+    },
+    {
+        "id": "millennia",
+        "title": "Millennia Ahead",
+        "details": {
+            "description": "Built dashboard components using React.js + Material UI + Redux for real-time large dataset sync. Integrated secure AWS S3 file handling APIs. Ensured reliability using Jest unit tests & Zod input validation.",
+            "summary": "Frontend Developer Intern"
+        },
+        "roles": [
+            "Frontend Development",
+            "React.js",
+            "Redux"
+        ],
+        "links": []
+    },
+    {
+        "id": "doubt-board",
+        "title": "Doubt Board (Edzy)",
+        "details": {
+            "description": "Real-time bi-directional platform supporting 50+ concurrent users. Deployed on Azure with Redis Pub/Sub. Built with Next.js, TS, Express, Socket.io, and Redis.",
+            "summary": "Real-time EdTech Platform"
+        },
+        "technologies": [
+            "Frontend: Next.js, TypeScript",
+            "Backend: Node.js, Express",
+            "Database: Redis",
+            "Cloud: Azure",
+            "Real-time: Socket.io"
+        ],
+        "links": [
+            "https://real-time-doubt-board-edzy-frontend.vercel.app/doubts"
+        ]
+    },
+    {
+        "id": "fitzone-pro",
+        "title": "FitZone Pro",
+        "details": {
+            "description": "Migrated DB from MongoDB → PostgreSQL, optimized SQL queries. Built analytics dashboard improving engagement by 10%. Tech stack: Next.js, Node.js, PostgreSQL, Highcharts.",
+            "summary": "Fitness Analytics Platform"
+        },
+        "technologies": [
+            "Database: PostgreSQL",
+            "Backend: Node.js, Express",
+            "Frontend: Next.js, TypeScript",
+            "Analytics: Highcharts"
+        ],
+        "links": [
+            "https://gym-management-system-three-zeta.vercel.app/"
+        ]
+    },
+    {
+        "id": "geo-booking",
+        "title": "Geo-Spatial Booking",
+        "details": {
+            "description": "Architected secure hotel booking system with JWT auth. Implemented 2dsphere geospatial indexing with OpenStreetMap. Built with Node.js, Express, MongoDB, EJS.",
+            "summary": "Booking Engine"
+        },
+        "technologies": [
+            "Backend: Node.js, Express",
+            "Database: MongoDB",
+            "Frontend: EJS",
+            "Geospatial Data: OpenStreetMap"
+        ],
+        "links": [
+            "https://hotel-flow.onrender.com/"
+        ]
+    }
+]
